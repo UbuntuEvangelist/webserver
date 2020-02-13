@@ -23,9 +23,9 @@
     "socket.io": "~1.0.6",
     "timeago": "^0.1.0",
     "uuid": "~1.4.1",
-    "coinbase": "~0.1.2",
+    "coinbase": "~1.0.1",
     "debug": "~1.0.4",
-    "crypto-js": "~3.1.2-5",
+    "crypto-js": "~3.2.1",
     "requirejs": "~2.1.15",
     "async-cache": "~0.1.5"
   },
